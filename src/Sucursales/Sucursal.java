@@ -12,7 +12,7 @@ public class Sucursal {
         this.ciudad=ciudad;
         this.n_sucursal=n_sucusal;
         this.direccion=direccion;
-
+        estaesunavariablenueva="Aqui añadimos nuevos cambios";
     }
     public void calcular(Paquete paquete){
         this.paquete= paquete;
