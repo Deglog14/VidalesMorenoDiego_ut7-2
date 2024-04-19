@@ -5,10 +5,12 @@ import Sucursales.Sucursal;
 import Sucursales.SucursalP;
 import Sucursales.SucursalS;
 
+import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        System.out.println("Esto es un cambio en el area de pruebas");
         Scanner scanner = new Scanner(System.in);
         SucursalS sucursalSecundaria1= new SucursalS(1,"asdsa","t");
         SucursalS sucursalSecundaria2 =new SucursalS(2,"ada","t");
