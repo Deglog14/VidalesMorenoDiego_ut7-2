@@ -6,6 +6,7 @@ public class Sucursal {
     protected String ciudad;
     protected String tipo;
     protected  Paquete paquete;
+    protected  String estaesunavariablenueva;
 
     public Sucursal(int n_sucusal, String direccion, String ciudad){
         this.ciudad=ciudad;
