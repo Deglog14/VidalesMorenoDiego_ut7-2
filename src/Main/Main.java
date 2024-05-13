@@ -7,6 +7,8 @@ import Sucursales.SucursalS;
 
 import java.util.Scanner;
 
+/*  Edited by xXherkyxxX_69 PWND  */  
+
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
